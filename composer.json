@@ -1,0 +1,16 @@
+{
+    "name": "mahesh/test",
+    "description": "composer test project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MANS123",
+            "email": "mghanwat23@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["./function.php"],
+        "classmap": ["./TestClass.php"]
+    },
+    "require": {}
+}
